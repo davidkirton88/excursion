@@ -1,4 +1,4 @@
-body{
+body {
     background-color: black;
     text-align: center;     
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -9,9 +9,40 @@ h1 {
     font-size: 50px;
     color: white;
     text-align: center;
+    padding-bottom: 5px;
 }
 
-nav p {
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+p {
+    color: gray;
+    font-size: 21px;
+}
+
+a {
+    font-weight: 500;
     color: aquamarine;
     size: 16px;
 }
+
+img {
+    padding-bottom: 25px;
+}
+
+#phone-icon {
+    padding: 0 0 0 0;
+}
+
+video {
+    padding-top: 15px;
+}
+
+footer p {
+    text-align: right;  
+}
+
+
